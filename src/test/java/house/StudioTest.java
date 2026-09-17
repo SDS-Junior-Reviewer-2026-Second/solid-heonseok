@@ -3,11 +3,8 @@ package house;
 
 import org.junit.jupiter.api.Test;
 
-<<<<<<< HEAD
-=======
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
->>>>>>> 5e81fb74b4c4db9f9740d1f27e0cd635be456442
 public class StudioTest {
     @Test
     public void testInitializedWithZeroBedrooms() {
